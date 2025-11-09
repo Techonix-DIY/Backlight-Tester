@@ -15,20 +15,20 @@ Works with most LED backlight configurations
 🪛 Components Used
 
 Bridge Rectifier
-105J / 400V Capacitor
-474J / 400V Capacitor
-470K / 1W Resistor
-Phoenix Terminal
-KF301 Terminal
-3K Ohm NTC
-271K VDR
-47uF / 400V Capacitor
-Fuse Holder
-2A Fuse
-Rocker Switch
-PCB
-Power Cable
-Multimeter Probe
+105J / 400V Capacitor - 
+474J / 400V Capacitor - 
+470K / 1W Resistor - 
+Phoenix Terminal - 
+KF301 Terminal - 
+3K Ohm NTC - 
+271K VDR - 
+47uF / 400V Capacitor - 
+Fuse Holder - 
+2A Fuse - 
+Rocker Switch - 
+PCB - 
+Power Cable - 
+Multimeter Probe - 
 Enclosure box
 ----------------------------------------------------------------
 
