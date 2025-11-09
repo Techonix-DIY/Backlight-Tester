@@ -52,4 +52,4 @@ This project is released under the MIT License — feel free to use, modify, and
 
 Created by Techonix-DIY
 Follow for more DIY electronics projects and tutorials:
-👉 YouTube: @Techonix-DIY
+👉 YouTube: @TechonixDIY
